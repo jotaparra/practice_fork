@@ -1,12 +1,12 @@
 .first-section {
     text-align: center;
-}
-
-#paragraph {
+  }
+  
+  #paragraph {
     color: blue;
     font-size: 20px;
-}
-
-.disappear {
+  }
+  
+  .disappear {
     display: none;
-}
+  }
